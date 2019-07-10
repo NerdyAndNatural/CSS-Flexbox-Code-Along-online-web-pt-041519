@@ -19,6 +19,8 @@ main {
  flex-flow: column wrap;
 
   flex-direction: column;
+  justify-content: center;
+
 
 }
 
